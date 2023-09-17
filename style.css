@@ -1,0 +1,91 @@
+body{
+    background-color:rgb(215, 240, 255);
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Quicksand', sans-serif;
+}
+.quo{
+    text-align: center;
+}
+.tit,.intro{
+    text-align: center;
+}
+.nav{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(219, 181, 181);
+}
+.nav a{
+    text-decoration: none;
+    padding: 28px;
+}
+.nav p{
+    display: inline;
+}
+hr{
+    color: black;
+}
+.top{
+    text-align: center;
+}
+.abt{
+    background-color: azure;
+}
+.pro{
+    background-color: azure;
+}
+.form{
+    background-color: azure;
+    text-align: center;
+    font-size: 18px;
+}
+#my{
+    font-size: 20px;
+}
+.cen{
+    text-align: center;
+}
+.abtme{
+    text-align: justify;
+    font-size: 18px;
+}
+.pp{
+    background-color: azure;
+}
+.ppc{
+    margin-left: auto;
+    margin-right: auto;
+}
+.if{
+    background-color: azure;
+   
+}
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 20px;
+}
+.cc{
+    background-color: azure;
+    text-align: center;
+}
+ul li{
+    font-size: 20px;
+}
+.quotes{
+    text-align: center;
+    background-color: azure;
+    font-size: 20px;
+}
+.prod{
+    background-color: azure;
+    text-align: center;
+}
+.vprod{
+    background-color: azure;
+    text-align: center;
+}
+.rate{
+    background-color: azure;
+    text-align: center;
+}
